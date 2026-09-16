@@ -1,9 +1,6 @@
 <div align="center">
 
   <h1>Salman Ansari</h1>
-  <p>
-    <strong>Freelancer</strong> · <em>Systems Architecture</em>
-  </p>
 
 <br/>
 
