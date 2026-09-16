@@ -2,8 +2,7 @@
 
   <h1>Salman Ansari</h1>
   <p>
-    <strong>Software Engineer · Freelancer · Open-Source Builder</strong><br/>
-    <em>Systems Architecture · Autonomous AI · High-Velocity Engineering</em>
+    <strong>Freelancer</strong> · <em>Systems Architecture</em>
   </p>
 
 <br/>
@@ -22,14 +21,14 @@
 
 ### About Me
 
-Hi, I'm Salman Ansari — a software engineer, freelance developer, and open-source builder currently pursuing my undergraduate degree in Computer Science at Birla Institute of Technology (BIT), Mesra.
+Hi, I'm Salman Ansari — a freelance developer currently pursuing my undergraduate degree in Computer Science at Birla Institute of Technology (BIT), Mesra.
 
-I work with teams, startups, and clients worldwide as an independent **freelance software engineer**, architecting robust full-stack platforms, autonomous AI pipelines, and high-performance backend systems. Driven by first-principles problem solving and clean product craftsmanship, I focus on building reliable tools that solve real-world problems with speed and scale.
+I work with teams, startups, and clients worldwide as an independent **freelancer**, architecting robust full-stack platforms and high-performance systems. Driven by first-principles problem solving and clean craftsmanship, I focus on building reliable software that solves real-world challenges with speed and precision.
 
 - <img src="./assets/icons/education.svg" width="16" height="16" valign="middle" /> **Background:** Computer Science undergraduate at **Birla Institute of Technology (BIT), Mesra**.
-- <img src="./assets/icons/briefcase.svg" width="16" height="16" valign="middle" /> **Freelance & Consulting:** Available for freelance projects across full-stack web development, intelligent agent workflows, and backend engineering.
+- <img src="./assets/icons/briefcase.svg" width="16" height="16" valign="middle" /> **Freelance & Consulting:** Available for freelance projects across full-stack development, custom platforms, and backend systems.
 - <img src="./assets/icons/git-branch.svg" width="16" height="16" valign="middle" /> **Open Source:** Active contributor to **[openclaw](https://github.com/openclaw/openclaw)**, shipping code that powers collaborative tooling and developer workflows.
-- <img src="./assets/icons/cpu.svg" width="16" height="16" valign="middle" /> **Autonomous AI:** Architecting deep-research agent engines and autonomous systems (**Yavin**, **Scarif-AI**).
+- <img src="./assets/icons/cpu.svg" width="16" height="16" valign="middle" /> **AI & Intelligent Systems:** Architecting deep-research engines and intelligent workflows (**Yavin**, **Scarif-AI**).
 - <img src="./assets/icons/server.svg" width="16" height="16" valign="middle" /> **Systems Engineering:** Leveraging **Rust** for concurrent, memory-safe, and latency-critical execution layers.
 - <img src="./assets/icons/compass.svg" width="16" height="16" valign="middle" /> **Focus:** Shipping reliable software, maintaining clean abstractions, and delivering tangible impact.
 
@@ -55,7 +54,7 @@ I work with teams, startups, and clients worldwide as an independent **freelance
 | :--- | :--- |
 | **Languages** | Rust, Python, Java, TypeScript, JavaScript, C++, SQL |
 | **Platforms & Backend** | Django, FastAPI, Node.js, Electron, React, REST APIs |
-| **Autonomous AI & Data** | Autonomous Agents, Deep Research Workflows, PyTorch, Pandas, Scikit-Learn |
+| **AI & Data** | Agent Workflows, Deep Research, PyTorch, Pandas, Scikit-Learn |
 | **Infrastructure & DevOps** | Docker, Linux, Git, GitHub Actions, Vercel, CI/CD Pipelines |
 
 </details>
@@ -64,7 +63,7 @@ I work with teams, startups, and clients worldwide as an independent **freelance
 
 ### Selected Projects & Systems
 
-1. **[Yavin-v1.2.0](https://github.com/salmanwnl44/Yavin-v1.2.0)** `Autonomous Agent Architecture`  
+1. **[Yavin-v1.2.0](https://github.com/salmanwnl44/Yavin-v1.2.0)** `Deep Research Architecture`  
    *End-to-end multi-agent deep research intelligence platform, integrating autonomous task execution, structured synthesis, and production runtime environments.*  
    `Python` `Deep Research` `Agent Systems` `Full-Stack`
 
@@ -72,8 +71,8 @@ I work with teams, startups, and clients worldwide as an independent **freelance
    *High-performance systems iteration of the Yavin engine, utilizing Rust’s concurrency primitives, memory safety guarantees, and zero-cost abstractions for low-latency operations.*  
    `Rust` `Systems Architecture` `Concurrency` `High Performance`
 
-3. **[Scarif_-AI-](https://github.com/salmanwnl44/Scarif_-AI-)** `Autonomous AI & ML Framework`  
-   *Autonomous intelligence pipeline and experimentation suite exploring machine learning models, inference workflows, and intelligent decision systems.*  
+3. **[Scarif_-AI-](https://github.com/salmanwnl44/Scarif_-AI-)** `AI & Machine Learning`  
+   *Intelligence pipeline and experimentation suite exploring machine learning models, inference workflows, and intelligent decision systems.*  
    `Python` `Machine Learning` `AI Systems`
 
 4. **[geopolitical-risks-freelance](https://github.com/salmanwnl44/geopolitical-risks-freelance)** `Quantitative Risk Intelligence`  
