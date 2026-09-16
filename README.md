@@ -1,9 +1,10 @@
 <div align="center">
 
-# Salman Ansari
-
-**Software Engineer, Freelancer & Open-Source Builder**  
-*Systems Architecture · Autonomous AI · High-Velocity Engineering*
+  <h1>Salman Ansari</h1>
+  <p>
+    <strong>Software Engineer · Freelancer · Open-Source Builder</strong><br/>
+    <em>Systems Architecture · Autonomous AI · High-Velocity Engineering</em>
+  </p>
 
 <br/>
 
