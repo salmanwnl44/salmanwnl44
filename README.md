@@ -89,13 +89,13 @@ I work with teams, startups, and clients worldwide as an independent **freelance
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=salmanwnl44&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Metrics" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=salmanwnl44&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Metrics" />
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanwnl44&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=salmanwnl44&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanwnl44&theme=github_dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=salmanwnl44&theme=github_dark&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
