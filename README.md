@@ -2,7 +2,7 @@
 
 # Salman Ansari
 
-**Software Engineer & Open-Source Builder**  
+**Software Engineer, Freelancer & Open-Source Builder**  
 *Systems Architecture · Autonomous AI · High-Velocity Engineering*
 
 <br/>
@@ -19,15 +19,18 @@
 
 </div>
 
-### Executive Overview
+### About Me
 
-I engineer high-leverage software at the convergence of resilient systems infrastructure, autonomous agent architectures, and applied artificial intelligence. Driven by first-principles problem solving, product craftsmanship, and an open-source ethos, I build systems designed for scale, velocity, and uncompromising reliability.
+Hi, I'm Salman Ansari — a software engineer, freelance developer, and open-source builder currently pursuing my undergraduate degree in Computer Science at Birla Institute of Technology (BIT), Mesra.
+
+I work with teams, startups, and clients worldwide as an independent **freelance software engineer**, architecting robust full-stack platforms, autonomous AI pipelines, and high-performance backend systems. Driven by first-principles problem solving and clean product craftsmanship, I focus on building reliable tools that solve real-world problems with speed and scale.
 
 - <img src="./assets/icons/education.svg" width="16" height="16" valign="middle" /> **Background:** Computer Science undergraduate at **Birla Institute of Technology (BIT), Mesra**.
+- <img src="./assets/icons/briefcase.svg" width="16" height="16" valign="middle" /> **Freelance & Consulting:** Available for freelance projects across full-stack web development, intelligent agent workflows, and backend engineering.
 - <img src="./assets/icons/git-branch.svg" width="16" height="16" valign="middle" /> **Open Source:** Active contributor to **[openclaw](https://github.com/openclaw/openclaw)**, shipping code that powers collaborative tooling and developer workflows.
 - <img src="./assets/icons/cpu.svg" width="16" height="16" valign="middle" /> **Autonomous AI:** Architecting deep-research agent engines and autonomous systems (**Yavin**, **Scarif-AI**).
 - <img src="./assets/icons/server.svg" width="16" height="16" valign="middle" /> **Systems Engineering:** Leveraging **Rust** for concurrent, memory-safe, and latency-critical execution layers.
-- <img src="./assets/icons/compass.svg" width="16" height="16" valign="middle" /> **Focus:** Shipping reliable software, maintaining clean abstractions, and building with conviction.
+- <img src="./assets/icons/compass.svg" width="16" height="16" valign="middle" /> **Focus:** Shipping reliable software, maintaining clean abstractions, and delivering tangible impact.
 
 ---
 
