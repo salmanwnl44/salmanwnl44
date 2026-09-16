@@ -3,7 +3,7 @@
 # Salman Ansari
 
 **Software Engineer & Open-Source Builder**  
-*Systems Architecture · Applied AI · High-Velocity Product Engineering*
+*Systems Architecture · Autonomous AI · High-Velocity Engineering*
 
 <br/>
 
@@ -21,13 +21,13 @@
 
 ### ⚡ Executive Overview
 
-I engineer high-leverage software at the convergence of resilient web platforms, systems infrastructure, and applied artificial intelligence. Driven by first-principles problem solving, product craftsmanship, and an open-source ethos, I build tools designed for scale, velocity, and uncompromising reliability.
+I engineer high-leverage software at the convergence of resilient systems infrastructure, autonomous agent architectures, and applied artificial intelligence. Driven by first-principles problem solving, product craftsmanship, and an open-source ethos, I build systems designed for scale, velocity, and uncompromising reliability.
 
 - 🏛️ **Background:** Engineering undergraduate at **Birla Institute of Technology (BIT), Mesra**.
 - 🚀 **Open Source:** Active contributor to **[openclaw](https://github.com/openclaw/openclaw)**, shipping code that powers collaborative tooling and developer workflows.
-- 🤖 **Applied AI:** Architecting autonomous intelligence frameworks and risk-intelligence pipelines (**Scarif-AI**).
-- 🦀 **Systems Engineering:** Leveraging **Rust** for concurrent, memory-safe, and latency-critical backends.
-- 🎯 **Philosophy:** Ship iteratively, maintain clean abstractions, and build with purpose.
+- 🤖 **Autonomous AI:** Architecting deep-research agent engines and autonomous systems (**Yavin**, **Scarif-AI**).
+- 🦀 **Systems Engineering:** Leveraging **Rust** for concurrent, memory-safe, and latency-critical execution layers.
+- 🎯 **Philosophy:** Ship iteratively, maintain clean abstractions, and build with conviction.
 
 ---
 
@@ -36,7 +36,7 @@ I engineer high-leverage software at the convergence of resilient web platforms,
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp,react,nextjs,nodejs,express,tailwind,pytorch,fastapi,docker,git,linux,vscode" alt="Technical Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript,cpp,react,nextjs,nodejs,express,tailwind,pytorch,fastapi,docker,git,linux,vscode" alt="Technical Stack" />
 </a>
 
 </div>
@@ -49,40 +49,43 @@ I engineer high-leverage software at the convergence of resilient web platforms,
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Rust, C++, SQL |
-| **Web & Architecture** | React, Next.js, Node.js, Express, Tailwind CSS, REST & GraphQL APIs |
-| **AI & Data Engineering** | PyTorch, FastAPI, Scikit-Learn, Pandas, NumPy, Predictive Modeling |
+| **Languages** | Rust, Python, TypeScript, JavaScript, C++, SQL |
+| **Systems & Backend** | Concurrency, Memory Safety, Node.js, Express, FastAPI, REST APIs |
+| **Autonomous AI & Data** | Autonomous Agents, Deep Research Workflows, PyTorch, Pandas, Scikit-Learn |
 | **Infrastructure & DevOps** | Docker, Linux, Git, GitHub Actions, Vercel, CI/CD Pipelines |
 
 </details>
 
 ---
 
-### 🚀 Selected Projects & Initiatives
+### 🚀 Selected Projects & Systems
 
-- **[openclaw](https://github.com/openclaw/openclaw)** `Contributor`  
-  *High-performance open-source tooling and collaborative developer infrastructure.*  
-  `TypeScript` `Open Source` `DevTools`
+1. **[Yavin-v1.2.0](https://github.com/salmanwnl44/Yavin-v1.2.0)** `Autonomous Agent Architecture`  
+   *End-to-end multi-agent deep research intelligence platform, integrating autonomous task execution, structured synthesis, and production runtime environments.*  
+   `Python` `Deep Research` `Agent Systems` `Full-Stack`
 
-- **[Scarif_-AI-](https://github.com/salmanwnl44/Scarif_-AI-)** `Lead Developer`  
-  *Autonomous intelligence pipeline and experimentation suite for LLM and ML model evaluation.*  
-  `Python` `Machine Learning` `AI Systems`
+2. **[Yavin-Rust-1](https://github.com/salmanwnl44/Yavin-Rust-1)** `Systems & Performance Engine`  
+   *High-performance systems iteration of the Yavin engine, utilizing Rust’s concurrency primitives, memory safety guarantees, and zero-cost abstractions for low-latency operations.*  
+   `Rust` `Systems Architecture` `Concurrency` `High Performance`
 
-- **[StudySprint](https://github.com/salmanwnl44/StudySprint)** `Product & Engineering`  
-  *Focused student productivity and sprint execution platform with modern UX.*  
-  `TypeScript` `React` `Full-Stack`
+3. **[Scarif_-AI-](https://github.com/salmanwnl44/Scarif_-AI-)** `Autonomous AI & ML Framework`  
+   *Autonomous intelligence pipeline and experimentation suite exploring machine learning models, inference workflows, and intelligent decision systems.*  
+   `Python` `Machine Learning` `AI Systems`
 
-- **[geopolitical-risks-freelance](https://github.com/salmanwnl44/geopolitical-risks-freelance)** `Lead Analyst & Engineer`  
-  *Quantitative data pipelines and empirical models analyzing global geopolitical indicators.*  
-  `Python` `Data Science` `Risk Intelligence`
-
-- **[Yavin-Rust-1](https://github.com/salmanwnl44/Yavin-Rust-1)** `Systems Engineering`  
-  *Exploration of memory safety, zero-cost abstractions, and concurrency in systems development.*  
-  `Rust` `Systems Programming` `Performance`
+4. **[geopolitical-risks-freelance](https://github.com/salmanwnl44/geopolitical-risks-freelance)** `Quantitative Risk Intelligence`  
+   *Empirical risk-modeling pipelines and data infrastructure assessing global geopolitical factors, economic indicators, and predictive trends.*  
+   `Python` `Data Science` `Risk Intelligence` `Quantitative Modeling`
 
 ---
 
-### 📈 Activity & Impact
+### 🌐 Open Source Contributions
+
+- **[openclaw](https://github.com/openclaw/openclaw)** `Contributor`  
+  *Active contributor to openclaw's collaborative developer infrastructure, shipping improvements across codebase ergonomics and tooling.*
+
+---
+
+### 📈 Activity & Metrics
 
 <div align="center">
 
