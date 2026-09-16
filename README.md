@@ -23,7 +23,7 @@
 
 I engineer high-leverage software at the convergence of resilient systems infrastructure, autonomous agent architectures, and applied artificial intelligence. Driven by first-principles problem solving, product craftsmanship, and an open-source ethos, I build systems designed for scale, velocity, and uncompromising reliability.
 
-- 🏛️ **Background:** Engineering undergraduate at **Birla Institute of Technology (BIT), Mesra**.
+- 🏛️ **Background:** Computer Science undergraduate at **Birla Institute of Technology (BIT), Mesra**.
 - 🚀 **Open Source:** Active contributor to **[openclaw](https://github.com/openclaw/openclaw)**, shipping code that powers collaborative tooling and developer workflows.
 - 🤖 **Autonomous AI:** Architecting deep-research agent engines and autonomous systems (**Yavin**, **Scarif-AI**).
 - 🦀 **Systems Engineering:** Leveraging **Rust** for concurrent, memory-safe, and latency-critical execution layers.
