@@ -36,7 +36,7 @@ I engineer high-leverage software at the convergence of resilient systems infras
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript,cpp,react,nextjs,nodejs,express,tailwind,pytorch,fastapi,docker,git,linux,vscode" alt="Technical Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,python,java,typescript,javascript,cpp,react,electron,django,fastapi,nodejs,tailwind,pytorch,docker,git,linux,vscode" alt="Technical Stack" />
 </a>
 
 </div>
@@ -49,8 +49,8 @@ I engineer high-leverage software at the convergence of resilient systems infras
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Rust, Python, TypeScript, JavaScript, C++, SQL |
-| **Systems & Backend** | Concurrency, Memory Safety, Node.js, Express, FastAPI, REST APIs |
+| **Languages** | Rust, Python, Java, TypeScript, JavaScript, C++, SQL |
+| **Platforms & Backend** | Django, FastAPI, Node.js, Electron, React, REST APIs |
 | **Autonomous AI & Data** | Autonomous Agents, Deep Research Workflows, PyTorch, Pandas, Scikit-Learn |
 | **Infrastructure & DevOps** | Docker, Linux, Git, GitHub Actions, Vercel, CI/CD Pipelines |
 
