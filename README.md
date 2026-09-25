@@ -81,7 +81,7 @@ I work with teams, startups, and clients worldwide as an independent **freelance
 ### Open Source Contributions
 
 - **[openclaw](https://github.com/openclaw/openclaw)** `Contributor`  
-  *Active contributor to openclaw's collaborative developer infrastructure, shipping improvements across codebase ergonomics and tooling.*
+  *Fixed A2A agent card discovery to accurately resolve forwarded HTTPS endpoints behind trusted TLS-terminating reverse proxies ([#150187](https://github.com/openclaw/openclaw/pull/150187)).*
 
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** `Contributor`  
   *Authored documentation and evaluation workflows for converting PyTorch DataLoader targets to `sv.Detections` for mAP and confusion matrix metrics ([#2620](https://github.com/roboflow/supervision/pull/2620)).*
