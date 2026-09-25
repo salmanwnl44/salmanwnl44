@@ -83,6 +83,9 @@ I work with teams, startups, and clients worldwide as an independent **freelance
 - **[openclaw](https://github.com/openclaw/openclaw)** `Contributor`  
   *Active contributor to openclaw's collaborative developer infrastructure, shipping improvements across codebase ergonomics and tooling.*
 
+- **[roboflow/supervision](https://github.com/roboflow/supervision)** `Contributor`  
+  *Authored documentation and evaluation workflows for converting PyTorch DataLoader targets to `sv.Detections` for mAP and confusion matrix metrics ([#2620](https://github.com/roboflow/supervision/pull/2620)).*
+
 ---
 
 ### Activity & Metrics
